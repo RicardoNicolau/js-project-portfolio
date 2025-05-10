@@ -19,7 +19,7 @@ This portfolio includes:
 
 - HTML5
 - CSS3
-- JavaScript (if applicable)
+- JavaScript
 - Responsive design techniques
 
 ## 📁 Project Structure
@@ -63,7 +63,7 @@ This portfolio includes:
 
 - HTML5
 - CSS3
-- JavaScript (if applicable)
+- JavaScript
 - Responsive design techniques
 
 ## 📁 Project Structure
